@@ -1,4 +1,13 @@
-## Hi there 👋
+</> Markdown
+<div align="center">
+
+# 🌌 Welcome to My Universe
+
+<img src="./saturn-galaxy.gif" width="100%" />
+
+### 🪐 Exploring the universe through code
+
+</div>
 
 <!--
 **Nuam/Nuam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
