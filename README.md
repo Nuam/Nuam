@@ -1,4 +1,4 @@
-</> Markdown
+
 <div align="center">
 
 # 🌌 Welcome to My Universe
@@ -8,5 +8,4 @@
 ### 🪐 Exploring the universe through code
 
 </div>
-
 <!![Saturn Galaxy](saturn-galaxy.gif)
